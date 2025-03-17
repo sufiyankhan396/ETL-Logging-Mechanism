@@ -1,0 +1,9 @@
+etl-logging-mechanism/
+│
+├── README.md
+├── logging_examples/
+│   ├── simple_logging.py
+│   ├── file_logging.py
+│   └── advanced_logging.py
+└── logs/
+    └── (log files will be created after running the scripts)
